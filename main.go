@@ -1,9 +1,9 @@
-package main
+package demo
 
 import (
 	"github.com/erzha/http/server"
 )
 
-func main() {
+func abc() {
 	server.Boot()
 }
